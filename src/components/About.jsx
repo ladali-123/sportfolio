@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
-import portImg from "../assets/PORT.PNG";
+import portImg from "../assets/port.png";
 
 const stats = [
   { num: "3+", label: "Years Experience" },
